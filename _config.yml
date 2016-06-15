@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: David's BLog
+title: David's Blog
 email: 
 description: > # this means to ignore newlines until "baseurl:"
     My blog.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://delapsley.gitbhub.io" # the base hostname & protocol for your site
 twitter_username: devlaps
 github_username:  delapsley
