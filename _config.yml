@@ -8,10 +8,11 @@
 # Site settings
 title: Dave's Blog
 email: devlaps@devlaps.cc
+email_name: devlaps
 description: > # this means to ignore newlines until "baseurl:"
     Thoughts on OpenStack, Cloud, and Technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://devlaps.cc" # the base hostname & protocol for your site
+url: "http://blog.devlaps.cc" # the base hostname & protocol for your site
 twitter_username: devlaps
 github_username:  devlaps
 
