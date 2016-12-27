@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to my Blog!"
+date:   2016-07-20 13:53:43 -0700
+categories: welcome
+---
+This site has been sitting dormant for the last few months.
+I've finally had some time over the holiday break to clean 
+up various accounts, setup a custom domain and actually start
+to think about populating my blog with some informative
+(and hopefully useful material).
+
+Stay tuned... looking forward to blogging more soon!
