@@ -17,3 +17,5 @@ github_username:  delapsley
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
