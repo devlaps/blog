@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-By day I am an engineering directory. By night and weekends, I like to pretend
+By day I am an engineering director. By night and weekends, I like to pretend
 I am still technical and hack on pet projects involving the cloud, automation,
 RESTful APIs, and just about anything else that is cool, might be useful and/or educational.
 
