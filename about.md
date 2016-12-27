@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+By day I am an engineering directory. By night and weekends, I like to pretend
+I am still technical and hack on pet projects involving the cloud, automation,
+RESTful APIs, and just about anything else that is cool, might be useful and/or educational.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I am a typical engineer, married to an engineer, with two children who aspire to be engineers. We have also have a Chihuahua.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+During my non-computer time, I like to spend time with my family, drive, ride my bikes, go to the gym, and fix things around the house.
