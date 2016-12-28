@@ -11,5 +11,3 @@ to think about populating my blog with some informative
 (and hopefully useful material).
 
 Stay tuned... looking forward to blogging more soon!
-
-Testing ![image](/images/vtx.jpg){:height="36px" width="36px"}!.
