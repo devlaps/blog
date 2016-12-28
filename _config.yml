@@ -15,10 +15,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.devlaps.cc" # the base hostname & protocol for your site
 twitter_username: devlaps
 github_username:  devlaps
+linkedin_username:  davidlapsley
 
 # Build settings
 markdown: kramdown
 
-# theme: jekyll-theme-minimal
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 google_analytics: UA-89548016-1
