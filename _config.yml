@@ -21,3 +21,4 @@ markdown: kramdown
 
 # theme: jekyll-theme-minimal
 theme: jekyll-theme-cayman
+google_analytics: UA-89548016-1
