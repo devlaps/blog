@@ -12,4 +12,4 @@ to think about populating my blog with some informative
 
 Stay tuned... looking forward to blogging more soon!
 
-Testing ![image]({{site.baseurl}}/images/vtx.jpg)!.
+Testing ![image]({{site.baseurl}}/images/vtx.jpg=100x)!.
